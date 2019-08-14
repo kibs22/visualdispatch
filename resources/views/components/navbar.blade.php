@@ -1,7 +1,7 @@
 <header>
 
     <nav class="navbar-custom navbar navbar-expand-lg navbar-light bg-primary">
-        <a class="navbar-brand" >Visual Dispatch</a>
+    <img src="{{ url('css/images/logo2.png') }}" alt="Nature" height="50"> 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
